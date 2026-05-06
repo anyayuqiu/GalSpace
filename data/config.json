@@ -1,0 +1,10 @@
+{
+  "leProcPath" : null,
+  "languagePreference" : "zh",
+  "autoScanEnabled" : false,
+  "autoScanPath" : "D:\\Agame\\GAL",
+  "globalBlur" : false,
+  "deepseekApiKey" : "",
+  "serverAddress" : "0.0.0.0",
+  "serverPort" : 10081
+}

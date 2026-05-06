@@ -1,0 +1,20 @@
+# 1. 编译输出目录 (绝对不能传)
+target/
+*.jar
+
+# 2. IDE 配置文件
+.idea/
+*.iml
+.vscode/
+
+# 3. 本地运行环境 (太大了，不能传)
+jre/
+custom-jre/
+
+# 4. 你的本地游戏数据和图片 (保护隐私！)
+data/images/
+!data/.keep  # (可选) 保留 data 文件夹本身的空壳
+
+# 5. 日志文件
+*.log
+error_log.txt
