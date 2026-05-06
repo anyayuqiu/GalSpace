@@ -12,17 +12,26 @@
 - **拖拽排序** — 卡片自由拖拽调整展示顺序，自动持久化
 - **批量操作** — 多选后批量删除、添加到分类、VNDB 抓取
 - **编辑与删除** — 修改名称、路径、封面模糊等设置
+- <img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/8296e3ea-0c8e-44f6-9f3c-5f22a955e1ed" />
+
 
 ### 🔍 VNDB 集成
 - **信息抓取** — 自动从 VNDB 获取游戏标题、描述、评分、截图、平台、语言等
 - **封面与截图** — VNDB CDN 直接加载，无需本地下载
 - **批量导入** — 多选游戏一键批量 VNDB 搜索 + 导入，6 线程并行加速
-- **导入结果** — 完成后自动弹窗显示成功/失败统计
+- **导入结果** — 完成后自动弹窗显示成功/失败统计、
+- <img width="585" height="378" alt="image" src="https://github.com/user-attachments/assets/caee856d-ba67-4cdc-afac-14a2aa2132b4" />
+- <img width="1628" height="760" alt="image" src="https://github.com/user-attachments/assets/0d91e445-f085-4bd6-a996-281bf8672362" />
+
+
 
 ### 🌐 AI 翻译
 - **DeepSeek 集成** — 自动翻译游戏简介和标签为简体中文
 - **API Key 配置** — 在设置中配置自己的 DeepSeek API Key
 - **智能过滤** — 翻译前自动清理 `[xxx]` 标记内容
+<img width="434" height="51" alt="image" src="https://github.com/user-attachments/assets/7ab8dc3c-8db2-4b16-a33b-78c40de7b558" />
+<img width="1604" height="659" alt="image" src="https://github.com/user-attachments/assets/e13ced83-7aee-46d0-9565-f89c1c5c64a4" />
+
 
 ### 🏷️ 标签与分类
 - **TAG 系统** — 侧边栏 TAG 菜单展示翻译后的中文标签，点击筛选
