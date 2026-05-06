@@ -95,7 +95,7 @@ start.bat
 java -jar target/GalSpace-1.0.0-SNAPSHOT.jar
 ```
 
-浏览器自动打开 `http://localhost:8080`
+浏览器自动打开 `http://localhost:10081`
 
 
 ## 🚀使用发布
